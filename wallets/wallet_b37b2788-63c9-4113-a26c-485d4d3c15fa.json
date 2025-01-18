@@ -1,0 +1,68 @@
+{
+  "budgets": {
+    "Развлечения": 10000,
+    "Еда": 300
+  },
+  "categories": [
+    "Рестораны",
+    "Развлечения",
+    "Зарплата",
+    "Еда"
+  ],
+  "transactions": [
+    {
+      "dateTime": "2025-01-17T23:24:39.114056500",
+      "amount": 300,
+      "type": "income",
+      "category": "Бензин"
+    },
+    {
+      "dateTime": "2025-01-18T00:03:39.423726900",
+      "amount": 566,
+      "type": "income",
+      "category": "3"
+    },
+    {
+      "dateTime": "2025-01-18T00:32:02.793203400",
+      "amount": 500,
+      "type": "income",
+      "category": "Еда"
+    },
+    {
+      "dateTime": "2025-01-18T00:32:28.588722600",
+      "amount": 250,
+      "type": "expense",
+      "category": "Еда"
+    },
+    {
+      "dateTime": "2025-01-18T00:33:23.885936400",
+      "amount": 200,
+      "type": "expense",
+      "category": "Еда"
+    },
+    {
+      "dateTime": "2025-01-18T12:14:31.856927100",
+      "amount": 80500.5,
+      "type": "income",
+      "category": "Зарплата"
+    },
+    {
+      "dateTime": "2025-01-18T12:15:18.876893700",
+      "amount": 4500.5,
+      "type": "expense",
+      "category": "Развлечения"
+    },
+    {
+      "dateTime": "2025-01-18T12:15:38.588267",
+      "amount": 500,
+      "type": "expense",
+      "category": "Развлечения"
+    },
+    {
+      "dateTime": "2025-01-18T12:16:10.308136800",
+      "amount": 500,
+      "type": "expense",
+      "category": "Развлечения"
+    }
+  ]
+}
